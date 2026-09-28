@@ -85,7 +85,7 @@ A curated collection of high-quality resources for people interested in FIRE (Fi
 * [cFIREsim](https://cfiresim.com/) - historical FIRE simulator with configurable income and spending
 * [Portfolio Charts](https://portfoliocharts.com/) - global portfolio, withdrawal-rate, retirement-spending, and Financial Independence tools
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) - portfolio backtesting and simulation
-* [Finance Simulator](https://finance.chriscoffin.design/coast-fire-calculator/) - Canadian Coast FIRE and retirement planner: TFSA/RRSP/FHSA, CPP and OAS, retirement income taxed with real 2026 federal and provincial brackets (OAS clawback included); free, no sign-up
+* [Finance Simulator](https://finance.chriscoffin.design/coast-fire-calculator/) - Canadian Coast FIRE calculator that nets estimated CPP and OAS out of your target
 
 ## Blogs & Websites
 
