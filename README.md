@@ -35,6 +35,7 @@ A curated collection of high-quality resources for people interested in FIRE (Fi
 ### Country/Region-Specific FIRE Communities
 
 * [Australia - r/fiaustralia](https://www.reddit.com/r/fiaustralia/)
+* [Canada - r/fican](https://www.reddit.com/r/fican/)
 * [India - r/FIREIndia](https://www.reddit.com/r/FIREIndia/)
 * [Israel - r/IsraelFIRE](https://www.reddit.com/r/IsraelFIRE/)
 * [Europe - r/EuropeFIRE](https://www.reddit.com/r/EuropeFIRE/)
@@ -84,6 +85,7 @@ A curated collection of high-quality resources for people interested in FIRE (Fi
 * [cFIREsim](https://cfiresim.com/) - historical FIRE simulator with configurable income and spending
 * [Portfolio Charts](https://portfoliocharts.com/) - global portfolio, withdrawal-rate, retirement-spending, and Financial Independence tools
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) - portfolio backtesting and simulation
+* [Finance Simulator](https://finance.chriscoffin.design/coast-fire-calculator/) - Canadian Coast FIRE and retirement planner: TFSA/RRSP/FHSA, CPP and OAS, retirement income taxed with real 2026 federal and provincial brackets (OAS clawback included); free, no sign-up
 
 ## Blogs & Websites
 
